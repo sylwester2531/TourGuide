@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">MainTourGuide</string>
+    <!--Categories name-->
+    <string name="category_visit">Visit</string>
+    <string name="category_drink">Drink</string>
+    <string name="category_eat">Eat</string>
+    <string name="category_sleep">Sleep</string>
+
+    <string name="to_the_website">To the website</string>
+
+    <!--Location for Visit tab-->
+    <!--Location 1-->
+    <string name="visit1_name">City Hall in Tarnów</string>
+    <string name="visit1_address">Rynek 1, Tarnów</string>
+    <string name="visit1_opening_time">10:00 &#8211; 18:00</string>
+    <string name="visit1_website">www.muzeum.tarnow.pl</string>
+    <!--Location  2-->
+    <string name="visit2_name">Princes Palace Sanguszków</string>
+    <string name="visit2_address">Sanguszków 28</string>
+    <string name="visit2_opening_time">Not open for sightseeing</string>
+    <string name="visit2_website">http://atlasrezydencji.pl/tarnow-gumniska-palac-sanguszkow/</string>
+
+    <!--Location  for Drink tab-->
+    <!--Location  1-->
+    <string name="drink1_name">Alfa Club</string>
+    <string name="drink1_address">Staszica 3</string>
+    <string name="drink1_opening_time">Mon&#8211;Sat 11.00&#8211;24.00 - Sun 12.00&#8211;04.30</string>
+    <string name="drink1_website">http://alfaclub24.pl</string>
+
+    <!--Location  2-->
+    <string name="drink2_name">Blue Velvet</string>
+    <string name="drink2_address">Krakowska 8</string>
+    <string name="drink2_opening_time">Open daily 11.00 &#8211; 24.00</string>
+    <string name="drink2_website">http://www.bluevelvetclub.pl</string>
+
+    <!--Location  for Eat tab-->
+    <!--Location  1-->
+    <string name="eat1_name">McDonald</string>
+    <string name="eat1_address">Szkotnik 2e</string>
+    <string name="eat1_opening_time">24h</string>
+    <string name="eat1_website">mcdonalds.pl</string>
+
+    <!--Location  2-->
+    <string name="eat2_name">KFC</string>
+    <string name="eat2_address">Lwowska 116</string>
+    <string name="eat2_opening_time">34h</string>
+    <string name="eat2_website">kfc.pl</string>
+
+    <!--Location  for Sleep tab-->
+    <!--Location  1-->
+    <string name="sleep1_name">Hotel Pod Dębem</string>
+    <string name="sleep1_address">Heleny Marusarz 9b</string>
+    <string name="sleep1_opening_time">24h</string>
+    <string name="sleep1_website">http://www.poddebem.tarnow.pl/</string>
+
+    <!--Location  2-->
+    <string name="sleep2_name">Hotel Tarnovia</string>
+    <string name="sleep2_address"> ul. Kościuszki 10</string>
+    <string name="sleep2_opening_time">24h</string>
+    <string name="sleep2_website">http://www.hotel.tarnovia.pl/</string>
+
+</resources>

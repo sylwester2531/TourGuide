@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!--Categories name-->
+    <string name="category_visit">Visit</string>
+    <string name="category_drink">Drink</string>
+    <string name="category_eat">Eat</string>
+    <string name="category_sleep">Sleep</string>
+
+    <string name="to_the_website">To the website</string>
+
+    <!--Location for Visit tab-->
+    <!--Location 1-->
+    <string name="visit1_name">Big Ben</string>
+    <string name="visit1_address">Parliament Square, Westminster, St Margaret Street, London SW1A 0AA</string>
+    <string name="visit1_opening_time">Tours Mon to Fri 9.15, 10.15, 11.15 and 14.15</string>
+    <string name="visit1_website">http://www.londontown.com/</string>
+    <!--Location  2-->LondonI
+    <string name="visit2_name">British Museum</string>
+    <string name="visit2_address">Great Russell Street, Bloomsbury, London WC1B 3DG</string>
+    <string name="visit2_opening_time">Open daily 10.00&#8211;17.30 - Fridays until 20.30</string>
+    <string name="visit2_website">http://www.britishmuseum.org/</string>
+
+    <!--Location  for Drink tab-->
+    <!--Location  1-->
+    <string name="drink1_name">The Carpenter\'s Arms</string>
+    <string name="drink1_address">12 Seymour Place, Marylebone, London W1H 7NE</string>
+    <string name="drink1_opening_time">Mon&#8211;Sat 11.00&#8211;23.00 - Sun 12.00&#8211;22.30</string>
+    <string name="drink1_website">http://www.markettaverns.co.uk/the_carpenters_arms.html</string>
+
+    <!--Location  2-->
+    <string name="drink2_name">Lord John Russell Pub</string>
+    <string name="drink2_address">91&#8211;93 Marchmont Street, London WC1N 1AL</string>
+    <string name="drink2_opening_time">Open daily 11.30&#8211;23.30</string>
+    <string name="drink2_website">http://www.lordjohnrussell.co.uk/</string>
+
+    <!--Location  for Eat tab-->
+    <!--Location  1-->
+    <string name="eat1_name">Kennington Lane Cafe</string>
+    <string name="eat1_address">383 Kennington Lane, Vauxhall, London SE11 5QY</string>
+    <string name="eat1_opening_time">Mon&#8211;Fri 7.00&#8211;16.00 - Sat 8.00&#8211;16.00 - Sun 9.00&#8211;16.00</string>
+    <string name="eat1_website">http://kenningtonlanecafe.co.uk/</string>
+
+    <!--Location  2-->
+    <string name="eat2_name">Fishers Fish and Chips</string>
+    <string name="eat2_address">19 Fulham High Street, London SW6 3JH</string>
+    <string name="eat2_opening_time">Open daily Noon - 22.30</string>
+    <string name="eat2_website">http://www.fishersfishandchips.co.uk/</string>
+
+    <!--Location  for Sleep tab-->
+    <!--Location  1-->
+    <string name="sleep1_name">Qbic Hotel London City</string>
+    <string name="sleep1_address">42, Adler Street, London E1 1EE</string>
+    <string name="sleep1_opening_time">Check-in after 15.00 - Check-out before 11.00</string>
+    <string name="sleep1_website">https://qbichotels.com/london-city/</string>
+
+    <!--Location  2-->
+    <string name="sleep2_name">Alhambra Hotel</string>
+    <string name="sleep2_address">17&#8211;19 Argyle Street, Kings Cross, London WC1H 8EJ</string>
+    <string name="sleep2_opening_time">Check-in after 15.00 &#8211; Check-out before 11.00</string>
+    <string name="sleep2_website">https://www.alhambrahotel.com/</string>
+
+</resources>

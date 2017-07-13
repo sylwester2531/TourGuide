@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <style name="Description">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:paddingLeft">@dimen/padding</item>
+        <item name="android:paddingRight">@dimen/padding</item>
+        <item name="android:paddingBottom">@dimen/padding</item>
+    </style>
+
+    <!--&lt;!&ndash; Style for a tab that displays a category name &ndash;&gt;-->
+    <!--<style name="CategoryTab" parent="Widget.Design.TabLayout">-->
+    <!--<item name="tabIndicatorColor">@android:color/white</item>-->
+    <!--<item name="tabSelectedTextColor">@android:color/white</item>-->
+    <!--<item name="android:background">@color/colorPrimary</item>-->
+    <!--<item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>-->
+    <!--</style>-->
+
+    <!--&lt;!&ndash; Text appearance style for a category tab &ndash;&gt;-->
+    <!--<style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">-->
+    <!--<item name="android:textColor">#A8A19E</item>-->
+    <!--</style>-->
+
+</resources>
